@@ -1,1 +1,0 @@
-Simple menu made with react, Ant design (Icons) & styled components

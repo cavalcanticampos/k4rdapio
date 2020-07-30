@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/k4rdapio/static/css/main.d51e4b97.chunk.css",
+    "main.js": "/k4rdapio/static/js/main.6aacf8c9.chunk.js",
+    "main.js.map": "/k4rdapio/static/js/main.6aacf8c9.chunk.js.map",
+    "runtime-main.js": "/k4rdapio/static/js/runtime-main.6b8f9921.js",
+    "runtime-main.js.map": "/k4rdapio/static/js/runtime-main.6b8f9921.js.map",
+    "static/js/2.34039abd.chunk.js": "/k4rdapio/static/js/2.34039abd.chunk.js",
+    "static/js/2.34039abd.chunk.js.map": "/k4rdapio/static/js/2.34039abd.chunk.js.map",
+    "index.html": "/k4rdapio/index.html",
+    "precache-manifest.c1be22b311cfe528d8239eb7322f0953.js": "/k4rdapio/precache-manifest.c1be22b311cfe528d8239eb7322f0953.js",
+    "service-worker.js": "/k4rdapio/service-worker.js",
+    "static/css/main.d51e4b97.chunk.css.map": "/k4rdapio/static/css/main.d51e4b97.chunk.css.map",
+    "static/js/2.34039abd.chunk.js.LICENSE.txt": "/k4rdapio/static/js/2.34039abd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b8f9921.js",
+    "static/js/2.34039abd.chunk.js",
+    "static/css/main.d51e4b97.chunk.css",
+    "static/js/main.6aacf8c9.chunk.js"
+  ]
+}
